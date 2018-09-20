@@ -4,12 +4,24 @@
 
 h1 {
 	color: #42f445;
+	font-size: 100px;
 }
 
 h2 {
-	color: white;
+	color: #FF1616;
+	font-size: 60px;
 }
 
 body {
-	background-image: url("https://i3.wp.com/pre00.deviantart.net/4ae7/th/pre/f/2017/097/3/d/aperture_laboratories_logo_by_sliper923-db50x95.png");
+	background-image: url("https://i1.ytimg.com/vi/U7OUkJuhqzM/hqdefault.jpg")
+}
+
+img {
+	height: 500px;
+	width: 1000px;
+}
+
+iframe {
+	height: 450px;
+	width: 800px;
 }
